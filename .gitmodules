@@ -1,0 +1,3 @@
+[submodule "mondai_path"]
+	path = mondai_path
+	url = https://github.com/codingtwinky/mondai
